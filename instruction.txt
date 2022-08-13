@@ -21,7 +21,7 @@
 
 //10. Add content to main.js, style.css, index.ejs 
 
-//11.  Temporarily delete .env file out of .gitignore, then readd it after pushing to heroku 
+//11.  Temporarily delete .env file out of .gitignore, then read it after pushing to heroku 
 
 //12. Create heroku repo
 
